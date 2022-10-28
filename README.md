@@ -1,6 +1,7 @@
-# easy-admin-menu-manager
-Easy Admin Menu Manager
+# Easy Admin Menu Manager
+
 === Easy Admin Menu Manager ===
+
 Contributors: creatorseo, clinton101
 Tags: Admin Menu Manager, Admin Menu, WordPress Admin, Efficient Admin Workspace
 Requires at least: 5.1
